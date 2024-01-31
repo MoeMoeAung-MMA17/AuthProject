@@ -1,0 +1,17 @@
+{
+ 
+  "user": [
+    {
+      "id": "1",
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "password": "asdffdsa"
+    },
+    {
+      "id": "3a1c",
+      "username": "Moe Moe Aung",
+      "email": "moemoeaung@gmail.com",
+      "password": "asdffdsa"
+    }
+  ]
+}
