@@ -16,7 +16,7 @@ const NotFound = () => {
         <p className="text-lg  mb-5">
           The requested page or resource could not be found.
         </p>
-      <button className="px-4 py-1 border bg-slate-400 hover:bg-slate-800 text-white rounded" onClick={handleBack}>Back</button>
+      <button className="px-4 py-1 border bg-orange-300 hover:bg-orange-500 text-white rounded" onClick={handleBack}>Back</button>
       </div>
     </div>
   );
