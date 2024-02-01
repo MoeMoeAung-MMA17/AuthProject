@@ -1,5 +1,4 @@
 {
- 
   "user": [
     {
       "id": "1",
@@ -11,6 +10,24 @@
       "id": "3a1c",
       "username": "Moe Moe Aung",
       "email": "moemoeaung@gmail.com",
+      "password": "asdffdsa"
+    },
+    {
+      "id": "0dc5",
+      "username": "Su Su",
+      "email": "susu@gmail.com",
+      "password": "asdffdsa"
+    },
+    {
+      "id": "4395",
+      "username": "Aye Aye",
+      "email": "ayeye@gmail.com",
+      "password": "asdffdsa"
+    },
+    {
+      "id": "43bd",
+      "username": "Mu Mu",
+      "email": "mumu@gmail.com",
       "password": "asdffdsa"
     }
   ]

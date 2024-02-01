@@ -10,7 +10,7 @@ const NavComponents = () => {
           <p>Menu</p>
           </Link>
       </nav>
-      <div id="headerSpacer" className="h-20" bis_skin_checked="1"></div>
+      {/* <div id="headerSpacer" className="h-20" bis_skin_checked="1"></div> */}
     </div>
   );
 };
